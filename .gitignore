@@ -27,3 +27,7 @@
 /JSFExamples26-ForwardVsRedirect/target
 /JSFExamples27-ResourceBundles/target
 /JSFExamples28-Internationalization/target
+/JSFExample31-ValueChangeListener/target
+/JSFExample31-ValueChangeListener/*.NavData
+/JSFExample31-ValueChangeListener/nb-configuration.xml
+/JSFExamples30-Validation/dist
